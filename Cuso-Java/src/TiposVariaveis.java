@@ -1,4 +1,4 @@
-public class TiposVariaveis {
+public class TiposVariaveis { 
     public static void main(String[] args) {
 		
         //exemplos de varivel como novos valores
