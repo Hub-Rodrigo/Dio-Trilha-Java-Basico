@@ -18,7 +18,7 @@ package Desafios;
             int busca = leitor.nextInt();
                       
             int i;
-            
+            //metodo a procurar  a variavel na array
             for(i = 0; i < elementos.length; i++){
               if(elementos[i] == busca){
                 System.out.println("Achei " + busca + " na posicao " + i);
