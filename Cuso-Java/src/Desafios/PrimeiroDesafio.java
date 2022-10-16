@@ -11,12 +11,12 @@ public class PrimeiroDesafio {
         
         int A;
         int B;
-        Scanner a = new Scanner(System.in);        
+        Scanner leitor = new Scanner(System.in);              
         System.out.println("Digite o primeiro Valor: ");
-            A = a.nextInt();
+            A = leitor.nextInt();
         System.out.println("Digite o segundo Valor: ");
-        Scanner b = new Scanner(System.in);
-            B = b.nextInt();
+        
+            B = leitor.nextInt();
         
         if(A==B){
             System.out.print("Sao iguais");
