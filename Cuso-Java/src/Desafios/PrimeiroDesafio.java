@@ -7,6 +7,9 @@ package Desafios;
 import java.util.Scanner;
 public class PrimeiroDesafio {
   
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         
         int A;
@@ -15,7 +18,6 @@ public class PrimeiroDesafio {
         System.out.println("Digite o primeiro Valor: ");
             A = leitor.nextInt();
         System.out.println("Digite o segundo Valor: ");
-        
             B = leitor.nextInt();
         
         if(A==B){
