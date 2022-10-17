@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuscaSequencial",
+            "request": "launch",
+            "mainClass": "Desafios.BuscaSequencial",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroDesafio",
+            "request": "launch",
+            "mainClass": "Desafios.PrimeiroDesafio",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "Dio-Trilha-Java-Basico_3c8f06d0"
+        }
+    ]
+}
