@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SomatorioRecursivo",
+            "request": "launch",
+            "mainClass": "Desafios.SomatorioRecursivo",
+            "projectName": "Dio-Trilha-Java-Basico_6a875626"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "Dio-Trilha-Java-Basico_6a875626"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuscaSequencial",
+            "request": "launch",
+            "mainClass": "Desafios.BuscaSequencial",
+            "projectName": "Dio-Trilha-Java-Basico_6a875626"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplos",
+            "request": "launch",
+            "mainClass": "Desafios.Multiplos",
+            "projectName": "Dio-Trilha-Java-Basico_6a875626"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
