@@ -17,7 +17,7 @@ public class Main {
 
 
         //Retorno da classe para o Main
-        System.out.println("Execicio de Retorno: ");
+        System.out.println("\nExecicio de Retorno: ");
         
         double areaQuadrado = QudrilateroRetorno.area(5);
         System.out.println("Área do quadrado: " + areaQuadrado);
