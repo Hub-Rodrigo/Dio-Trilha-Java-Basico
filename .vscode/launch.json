@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FizzBuzz",
+            "request": "launch",
+            "mainClass": "Desafios.FizzBuzz",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorEMedia",
+            "request": "launch",
+            "mainClass": "MaiorEMedia",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaioreEMedia",
+            "request": "launch",
+            "mainClass": "MaioreEMedia",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
             "name": "Launch SomatorioRecursivo",
             "request": "launch",
             "mainClass": "Desafios.SomatorioRecursivo",
