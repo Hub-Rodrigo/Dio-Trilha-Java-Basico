@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "AulaMetodos.Sobrecarga.Main",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "AulaMetodos.AulaCriação.Main",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "AulaCriação.Main",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
             "name": "Launch FizzBuzz",
             "request": "launch",
             "mainClass": "Desafios.FizzBuzz",

@@ -1,3 +1,4 @@
+package AulaMetodos.Aula01;
 public class SmartTv {
 
         //atrbuindo valor as varias para mudar canal,volume e deligar e ligar tv.

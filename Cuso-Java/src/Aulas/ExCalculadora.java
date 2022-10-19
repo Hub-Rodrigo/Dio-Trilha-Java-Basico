@@ -1,4 +1,4 @@
-public class Calculadora {
+public class ExCalculadora {
     public int calcula(int a, int  b){
         return a+b;
     
@@ -10,7 +10,7 @@ public class Calculadora {
         return a+b;
     }
     public static void main (String[] args){
-        Calculadora calc = new Calculadora();
+        ExCalculadora calc = new ExCalculadora();
         System.out.println(calc.calcula(1,1));
         System.out.println(calc.calcula(2.0,2.1));
         System.out.println(calc.calcula("vi","ram?"));
