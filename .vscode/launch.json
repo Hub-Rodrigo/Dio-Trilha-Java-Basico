@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RodarApplicativo",
+            "request": "launch",
+            "mainClass": "AulaHeranca.Exercicio2.RodarApplicativo",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
+            "name": "Launch RodarAplicativo",
+            "request": "launch",
+            "mainClass": "ExercicioHeranca.RodarAplicativo",
+            "projectName": "Dio-Trilha-Java-Basico_6239965d"
+        },
+        {
+            "type": "java",
             "name": "Launch RodarAplicacao",
             "request": "launch",
             "mainClass": "ProgramacaoOrientadoObjeto.RodarAplicacao",
