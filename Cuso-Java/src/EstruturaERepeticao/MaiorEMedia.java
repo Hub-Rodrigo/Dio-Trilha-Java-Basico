@@ -1,3 +1,5 @@
+package EstruturaERepeticao;
+
 import java.util.Scanner;
 
 public class MaiorEMedia {
