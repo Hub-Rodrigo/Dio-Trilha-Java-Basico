@@ -11,7 +11,7 @@ public class FizzBuzz {
         System.out.println("Digite um valor: ");
         int num = number.nextInt();
         
-          
+     
         
           if(num % 3 == 0 && num % 5 == 0){
             System.out.println("FizzBuzz");
