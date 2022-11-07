@@ -14,7 +14,7 @@ public class ExerciciosStreamAPI {
 
         List<String> numerosAleatorios = Arrays.asList("1", "0", "4", "1", "2", "3", "9", "9", "6", "5");
 
-       /*"Primeiro metodo com Lambda deixado comentado para fazer os proximos metodos
+      /* //"Primeiro metodo com Lambda deixado comentado para fazer os proximos metodos
         System.out.println("Imprima todos os elementos dessa lista de String: ");
         numerosAleatorios.forEach(System.out::println);
 
